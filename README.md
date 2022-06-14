@@ -1,5 +1,5 @@
 # SenaiDev
-Estudo dos comandos utilizados
+Estudo dos comandos utilizados: 
 git status
 git add "..." ou .
 git commit (-m "...")
